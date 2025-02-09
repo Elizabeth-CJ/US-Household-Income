@@ -32,10 +32,11 @@ The following steps were taken to clean and prepare the data:
 ## 📈 Exploratory Data Analysis  
 We explored key insights into **household income distribution** based on state and county.  
 
-## 🏆 Data Analysis  
+## 🔍 Data Analysis  
 Some key queries used:  
 
-```sql
+
+```
 -- Identifying duplicate entries
 
 SELECT id, COUNT(id)
