@@ -1,20 +1,20 @@
-# 🏡 US Household Income Data Analysis  
+# US Household Income Data Analysis  
 
 
 
-## 📌 Project Overview  
+## Project Overview  
 This project analyzes US household income data using **MySQL** for data cleaning, transformation, and exploration. The goal is to identify patterns and insights in income distribution across different states and counties.  
 
 
-## 📊 Data Sources  
+## Data Sources  
 - [US Household Income Dataset](#) (add dataset source)
 
 
-## 🛠 Tools Used  
+## Tools Used  
 - **MySQL** – Data cleaning & analysis  
 
 
-## 🔄 Data Cleaning & Preparation  
+## Data Cleaning & Preparation  
 The following steps were taken to clean and prepare the data:  
 
 1. **Data Loading & Inspection**  
@@ -29,10 +29,10 @@ The following steps were taken to clean and prepare the data:
    - Standardized state abbreviations  
    - Adjusted incorrect area values  
 
-## 📈 Exploratory Data Analysis  
+## Exploratory Data Analysis  
 We explored key insights into **household income distribution** based on state and county.  
 
-## 🔍 Data Analysis  
+## Data Analysis  
 Some key queries used:  
 
 
@@ -56,7 +56,7 @@ WHERE State_name = 'georia';
 ```
 
 
-## 🏆 Results & Findings
+## Results & Findings
 **Household income data is unevenly distributed across states**
  - Some states have significantly more entries than others.
  - This could be due to data availability or reporting inconsistencies.
